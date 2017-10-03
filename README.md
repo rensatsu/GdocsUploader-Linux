@@ -8,5 +8,5 @@ It can upload your file and open it in your browser.
 
 ```
 sudo mkdir -p /opt/scripts/gdocs-uploader/
-sudo git clone git@ptdev.pw:link/GdocsUploader-Linux.git /opt/scripts/gdocs-uploader/
+sudo git clone git clone git@github.com:rensatsu/GdocsUploader-Linux.git /opt/scripts/gdocs-uploader/
 ```
